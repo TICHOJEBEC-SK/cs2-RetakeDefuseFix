@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<a href="https://www.paypal.com/paypalme/mleaguecz"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate"/>
+<a href="https://www.paypal.com/paypalme/cskonet"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate"/>
 </a>
 
 #### ABOUT THE PLUGIN
