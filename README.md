@@ -12,8 +12,7 @@
 
 #### ABOUT THE PLUGIN
 
-This plugin is designed to automatically provide all Counter-Terrorist (CT) players with a defuse kit. The reason for its creation is that the current version of the "retake" game mode by VALVE, which focuses on simulating scenarios where CTs have to retake a bomb site and defuse an already planted bomb, is not fully completed. In this mode, there can be situations where CT players do not have a defuse kit, significantly hindering their ability to defuse the bomb and consequently decreasing their chances of winning the round. Therefore, this plugin ensures that every CT player has a defuse kit from the start of the round or once the bomb is planted, enhancing the fairness and playability of this game mode.<br>
-<img src="https://i.ibb.co/nwvGh0Y/image.png"/>
+This plugin is designed to automatically provide all Counter-Terrorist (CT) players with a defuse kit. The reason for its creation is that the current version of the "retake" game mode by VALVE, which focuses on simulating scenarios where CTs have to retake a bomb site and defuse an already planted bomb, is not fully completed. In this mode, there can be situations where CT players do not have a defuse kit, significantly hindering their ability to defuse the bomb and consequently decreasing their chances of winning the round. Therefore, this plugin ensures that every CT player has a defuse kit from the start of the round or once the bomb is planted, enhancing the fairness and playability of this game mode.
 
 ## 💡 Contact
 **If you are interested in this plugin, contact me via private message.**
