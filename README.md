@@ -34,6 +34,6 @@ Discord: tichotm
 
 ## 🙏 Support
 <p align="left">
-<a href="https://paypal.com/paypalme/mleaguecz"><img src="https://ionicabizau.github.io/badges/paypal.svg">
+<a href="https://paypal.com/paypalme/cskonet"><img src="https://ionicabizau.github.io/badges/paypal.svg">
 </a>
 </p>
